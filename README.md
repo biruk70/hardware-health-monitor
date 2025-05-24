@@ -38,4 +38,4 @@ pandas
 
 matplotlib
 
-You can install them all at once using:
+You can install them all at once using: pip install -r requirements.txt
